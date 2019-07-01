@@ -14,4 +14,5 @@ Langkah pemakaian :
 * note :
 
   \- reset secara otomatis menghitung ulang waktu, untuk menghitung ulang sesuai keinginan klik pause terlebih dahulu.
+  
   \- angka akan bertambah secara otomatis ketika sudah penuh.
